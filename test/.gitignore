@@ -2,3 +2,6 @@ test/.idea/
 .idea/
 test/currencies.iml
 test.iml
+test/src/.idea/
+test/src/out/production/currencies/
+test/src/currencies.iml
